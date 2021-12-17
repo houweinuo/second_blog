@@ -2827,3 +2827,382 @@ WARNING 2021-12-16 17:24:23,550 log 225 Not Found: /static/js/login.js
 WARNING 2021-12-16 17:24:23,550 basehttp 179 "GET /static/js/login.js HTTP/1.1" 404 1130
 WARNING 2021-12-16 17:24:23,555 log 225 Not Found: /static/js/login.js
 WARNING 2021-12-16 17:24:23,556 basehttp 179 "GET /static/js/login.js HTTP/1.1" 404 1130
+INFO 2021-12-17 09:33:59,213 autoreload 643 Watching for file changes with StatReloader
+WARNING 2021-12-17 09:34:00,964 log 225 Not Found: /
+WARNING 2021-12-17 09:34:00,964 basehttp 179 "GET / HTTP/1.1" 404 15
+WARNING 2021-12-17 09:34:01,128 log 225 Not Found: /favicon.ico
+WARNING 2021-12-17 09:34:01,129 basehttp 179 "GET /favicon.ico HTTP/1.1" 404 4106
+INFO 2021-12-17 09:34:16,246 basehttp 179 "GET /admin HTTP/1.1" 301 0
+INFO 2021-12-17 09:34:16,288 basehttp 179 "GET /admin/ HTTP/1.1" 302 0
+INFO 2021-12-17 09:34:16,325 basehttp 179 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2213
+INFO 2021-12-17 09:34:16,356 basehttp 179 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2616
+INFO 2021-12-17 09:34:16,372 basehttp 179 "GET /static/admin/css/base.css HTTP/1.1" 200 19513
+INFO 2021-12-17 09:34:16,372 basehttp 179 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3401
+INFO 2021-12-17 09:34:16,372 basehttp 179 "GET /static/admin/css/login.css HTTP/1.1" 200 954
+INFO 2021-12-17 09:34:16,372 basehttp 179 "GET /static/admin/css/responsive.css HTTP/1.1" 200 18545
+INFO 2021-12-17 09:34:20,242 basehttp 179 "GET /admin/ HTTP/1.1" 302 0
+INFO 2021-12-17 09:34:20,260 basehttp 179 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2213
+INFO 2021-12-17 09:34:20,284 basehttp 179 "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+INFO 2021-12-17 09:34:20,335 basehttp 179 "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+INFO 2021-12-17 09:34:20,336 basehttp 179 "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+INFO 2021-12-17 09:34:29,091 basehttp 179 "POST /admin/login/?next=/admin/ HTTP/1.1" 200 2348
+INFO 2021-12-17 09:34:29,138 basehttp 179 "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+INFO 2021-12-17 09:34:42,957 basehttp 179 "POST /admin/login/?next=/admin/ HTTP/1.1" 200 2348
+INFO 2021-12-17 09:35:26,261 basehttp 179 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2021-12-17 09:35:26,291 basehttp 179 "GET /admin/ HTTP/1.1" 200 4636
+INFO 2021-12-17 09:35:26,314 basehttp 179 "GET /static/admin/css/dashboard.css HTTP/1.1" 200 380
+INFO 2021-12-17 09:35:26,324 basehttp 179 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+INFO 2021-12-17 09:35:26,324 basehttp 179 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+INFO 2021-12-17 09:35:30,939 basehttp 179 "GET /admin/home/articlecategory/ HTTP/1.1" 200 5657
+INFO 2021-12-17 09:35:30,963 basehttp 179 "GET /static/admin/css/changelists.css HTTP/1.1" 200 6932
+INFO 2021-12-17 09:35:30,976 basehttp 179 "GET /static/admin/js/actions.js HTTP/1.1" 200 7872
+INFO 2021-12-17 09:35:30,977 basehttp 179 "GET /static/admin/js/core.js HTTP/1.1" 200 5698
+INFO 2021-12-17 09:35:30,979 basehttp 179 "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+INFO 2021-12-17 09:35:30,989 basehttp 179 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 5984
+INFO 2021-12-17 09:35:30,990 basehttp 179 "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+INFO 2021-12-17 09:35:30,991 basehttp 179 "GET /static/admin/js/urlify.js HTTP/1.1" 200 7902
+INFO 2021-12-17 09:35:30,991 basehttp 179 "GET /admin/jsi18n/ HTTP/1.1" 200 8398
+INFO 2021-12-17 09:35:30,999 basehttp 179 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+INFO 2021-12-17 09:35:31,000 basehttp 179 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 288580
+INFO 2021-12-17 09:35:31,037 basehttp 179 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+INFO 2021-12-17 09:35:38,528 basehttp 179 "GET /admin/home/articlecategory/add/ HTTP/1.1" 200 7300
+INFO 2021-12-17 09:35:38,555 basehttp 179 "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 492
+INFO 2021-12-17 09:35:38,558 basehttp 179 "GET /static/admin/js/calendar.js HTTP/1.1" 200 8466
+INFO 2021-12-17 09:35:38,559 basehttp 179 "GET /static/admin/css/forms.css HTTP/1.1" 200 8835
+INFO 2021-12-17 09:35:38,559 basehttp 179 "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19634
+INFO 2021-12-17 09:35:38,560 basehttp 179 "GET /admin/jsi18n/ HTTP/1.1" 200 8398
+INFO 2021-12-17 09:35:38,564 basehttp 179 "GET /static/admin/css/widgets.css HTTP/1.1" 200 11097
+INFO 2021-12-17 09:35:38,567 basehttp 179 "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+INFO 2021-12-17 09:35:38,629 basehttp 179 "GET /static/admin/img/icon-clock.svg HTTP/1.1" 200 677
+INFO 2021-12-17 09:35:38,629 basehttp 179 "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+INFO 2021-12-17 09:35:48,826 basehttp 179 "POST /admin/home/articlecategory/add/ HTTP/1.1" 302 0
+INFO 2021-12-17 09:35:48,871 basehttp 179 "GET /admin/home/articlecategory/add/ HTTP/1.1" 200 7558
+INFO 2021-12-17 09:35:48,903 basehttp 179 "GET /admin/jsi18n/ HTTP/1.1" 200 8398
+INFO 2021-12-17 09:35:48,924 basehttp 179 "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+INFO 2021-12-17 09:35:54,314 basehttp 179 "POST /admin/home/articlecategory/add/ HTTP/1.1" 302 0
+INFO 2021-12-17 09:35:54,357 basehttp 179 "GET /admin/home/articlecategory/add/ HTTP/1.1" 200 7558
+INFO 2021-12-17 09:35:54,381 basehttp 179 "GET /admin/jsi18n/ HTTP/1.1" 200 8398
+INFO 2021-12-17 09:36:00,145 basehttp 179 "POST /admin/home/articlecategory/add/ HTTP/1.1" 302 0
+INFO 2021-12-17 09:36:00,191 basehttp 179 "GET /admin/home/articlecategory/add/ HTTP/1.1" 200 7557
+INFO 2021-12-17 09:36:00,217 basehttp 179 "GET /admin/jsi18n/ HTTP/1.1" 200 8398
+INFO 2021-12-17 09:36:06,542 basehttp 179 "POST /admin/home/articlecategory/add/ HTTP/1.1" 302 0
+INFO 2021-12-17 09:36:06,591 basehttp 179 "GET /admin/home/articlecategory/ HTTP/1.1" 200 7673
+INFO 2021-12-17 09:36:06,622 basehttp 179 "GET /admin/jsi18n/ HTTP/1.1" 200 8398
+INFO 2021-12-17 09:36:10,495 basehttp 179 "GET / HTTP/1.1" 200 4906
+INFO 2021-12-17 09:36:10,520 basehttp 179 "GET /static/md_css/monokai.css HTTP/1.1" 200 4118
+INFO 2021-12-17 09:36:10,524 basehttp 179 "GET /static/common/jquery.pagination.css HTTP/1.1" 200 523
+INFO 2021-12-17 09:36:10,524 basehttp 179 "GET /static/common/common.css HTTP/1.1" 200 381
+INFO 2021-12-17 09:36:10,527 basehttp 179 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2021-12-17 09:36:10,535 basehttp 179 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2021-12-17 09:36:10,536 basehttp 179 "GET /static/js/index.js HTTP/1.1" 200 548
+INFO 2021-12-17 09:36:10,537 basehttp 179 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2021-12-17 09:36:10,540 basehttp 179 "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140942
+INFO 2021-12-17 09:36:10,541 basehttp 179 "GET /static/js/jquery.pagination.min.js HTTP/1.1" 200 2935
+INFO 2021-12-17 09:36:10,542 basehttp 179 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 148436
+INFO 2021-12-17 09:36:10,544 basehttp 179 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2021-12-17 09:36:13,288 basehttp 179 "GET /?cat_id=2 HTTP/1.1" 200 4906
+INFO 2021-12-17 09:36:14,134 basehttp 179 "GET /?cat_id=3 HTTP/1.1" 200 4906
+INFO 2021-12-17 09:36:14,757 basehttp 179 "GET /?cat_id=4 HTTP/1.1" 200 4906
+INFO 2021-12-17 09:36:23,235 basehttp 179 "GET /login/ HTTP/1.1" 200 3691
+INFO 2021-12-17 09:36:23,263 basehttp 179 "GET /static/js/login.js HTTP/1.1" 200 677
+WARNING 2021-12-17 09:36:24,752 log 225 Not Found: /login/register.html
+WARNING 2021-12-17 09:36:24,753 basehttp 179 "GET /login/register.html HTTP/1.1" 404 4130
+WARNING 2021-12-17 09:37:09,593 log 225 Not Found: /login/register.html
+WARNING 2021-12-17 09:37:09,593 basehttp 179 "GET /login/register.html HTTP/1.1" 404 4130
+WARNING 2021-12-17 09:37:10,397 log 225 Not Found: /login/register.html
+WARNING 2021-12-17 09:37:10,398 basehttp 179 "GET /login/register.html HTTP/1.1" 404 4130
+WARNING 2021-12-17 09:37:12,219 log 225 Not Found: /login/register.html
+WARNING 2021-12-17 09:37:12,220 basehttp 179 "GET /login/register.html HTTP/1.1" 404 4130
+ERROR 2021-12-17 09:37:14,498 log 225 Internal Server Error: /login/
+Traceback (most recent call last):
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\urls\base.py", line 71, in reverse
+    extra, resolver = resolver.namespace_dict[ns]
+KeyError: 'User'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\views\generic\base.py", line 69, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\views\generic\base.py", line 101, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\mi\Desktop\blog\second_blog\users\views.py", line 141, in get
+    return render(request, 'login.html')
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\template\base.py", line 176, in render
+    return self._render(context)
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\template\base.py", line 168, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\template\base.py", line 977, in render
+    return SafeString(''.join([
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\template\base.py", line 978, in <listcomp>
+    node.render_annotated(context) for node in self
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\template\base.py", line 938, in render_annotated
+    return self.render(context)
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\template\defaulttags.py", line 442, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\urls\base.py", line 82, in reverse
+    raise NoReverseMatch("%s is not a registered namespace" % key)
+django.urls.exceptions.NoReverseMatch: 'User' is not a registered namespace
+ERROR 2021-12-17 09:37:14,502 basehttp 179 "GET /login/ HTTP/1.1" 500 138650
+ERROR 2021-12-17 09:37:22,622 log 225 Internal Server Error: /login/
+Traceback (most recent call last):
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\urls\base.py", line 71, in reverse
+    extra, resolver = resolver.namespace_dict[ns]
+KeyError: 'user'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\views\generic\base.py", line 69, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\views\generic\base.py", line 101, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\mi\Desktop\blog\second_blog\users\views.py", line 141, in get
+    return render(request, 'login.html')
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\template\base.py", line 176, in render
+    return self._render(context)
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\template\base.py", line 168, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\template\base.py", line 977, in render
+    return SafeString(''.join([
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\template\base.py", line 978, in <listcomp>
+    node.render_annotated(context) for node in self
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\template\base.py", line 938, in render_annotated
+    return self.render(context)
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\template\defaulttags.py", line 442, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\urls\base.py", line 82, in reverse
+    raise NoReverseMatch("%s is not a registered namespace" % key)
+django.urls.exceptions.NoReverseMatch: 'user' is not a registered namespace
+ERROR 2021-12-17 09:37:22,624 basehttp 179 "GET /login/ HTTP/1.1" 500 138650
+ERROR 2021-12-17 09:37:23,273 log 225 Internal Server Error: /login/
+Traceback (most recent call last):
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\urls\base.py", line 71, in reverse
+    extra, resolver = resolver.namespace_dict[ns]
+KeyError: 'user'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\views\generic\base.py", line 69, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\views\generic\base.py", line 101, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\mi\Desktop\blog\second_blog\users\views.py", line 141, in get
+    return render(request, 'login.html')
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\template\base.py", line 176, in render
+    return self._render(context)
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\template\base.py", line 168, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\template\base.py", line 977, in render
+    return SafeString(''.join([
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\template\base.py", line 978, in <listcomp>
+    node.render_annotated(context) for node in self
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\template\base.py", line 938, in render_annotated
+    return self.render(context)
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\template\defaulttags.py", line 442, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\urls\base.py", line 82, in reverse
+    raise NoReverseMatch("%s is not a registered namespace" % key)
+django.urls.exceptions.NoReverseMatch: 'user' is not a registered namespace
+ERROR 2021-12-17 09:37:23,275 basehttp 179 "GET /login/ HTTP/1.1" 500 138650
+ERROR 2021-12-17 09:37:23,458 log 225 Internal Server Error: /login/
+Traceback (most recent call last):
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\urls\base.py", line 71, in reverse
+    extra, resolver = resolver.namespace_dict[ns]
+KeyError: 'user'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\views\generic\base.py", line 69, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\views\generic\base.py", line 101, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\mi\Desktop\blog\second_blog\users\views.py", line 141, in get
+    return render(request, 'login.html')
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\template\base.py", line 176, in render
+    return self._render(context)
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\template\base.py", line 168, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\template\base.py", line 977, in render
+    return SafeString(''.join([
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\template\base.py", line 978, in <listcomp>
+    node.render_annotated(context) for node in self
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\template\base.py", line 938, in render_annotated
+    return self.render(context)
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\template\defaulttags.py", line 442, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\urls\base.py", line 82, in reverse
+    raise NoReverseMatch("%s is not a registered namespace" % key)
+django.urls.exceptions.NoReverseMatch: 'user' is not a registered namespace
+ERROR 2021-12-17 09:37:23,460 basehttp 179 "GET /login/ HTTP/1.1" 500 138650
+ERROR 2021-12-17 09:37:23,649 log 225 Internal Server Error: /login/
+Traceback (most recent call last):
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\urls\base.py", line 71, in reverse
+    extra, resolver = resolver.namespace_dict[ns]
+KeyError: 'user'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\views\generic\base.py", line 69, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\views\generic\base.py", line 101, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\mi\Desktop\blog\second_blog\users\views.py", line 141, in get
+    return render(request, 'login.html')
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\template\base.py", line 176, in render
+    return self._render(context)
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\template\base.py", line 168, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\template\base.py", line 977, in render
+    return SafeString(''.join([
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\template\base.py", line 978, in <listcomp>
+    node.render_annotated(context) for node in self
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\template\base.py", line 938, in render_annotated
+    return self.render(context)
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\template\defaulttags.py", line 442, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\urls\base.py", line 82, in reverse
+    raise NoReverseMatch("%s is not a registered namespace" % key)
+django.urls.exceptions.NoReverseMatch: 'user' is not a registered namespace
+ERROR 2021-12-17 09:37:23,651 basehttp 179 "GET /login/ HTTP/1.1" 500 138650
+ERROR 2021-12-17 09:37:23,878 log 225 Internal Server Error: /login/
+Traceback (most recent call last):
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\urls\base.py", line 71, in reverse
+    extra, resolver = resolver.namespace_dict[ns]
+KeyError: 'user'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\views\generic\base.py", line 69, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\views\generic\base.py", line 101, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\mi\Desktop\blog\second_blog\users\views.py", line 141, in get
+    return render(request, 'login.html')
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\template\base.py", line 176, in render
+    return self._render(context)
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\template\base.py", line 168, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\template\base.py", line 977, in render
+    return SafeString(''.join([
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\template\base.py", line 978, in <listcomp>
+    node.render_annotated(context) for node in self
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\template\base.py", line 938, in render_annotated
+    return self.render(context)
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\template\defaulttags.py", line 442, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\urls\base.py", line 82, in reverse
+    raise NoReverseMatch("%s is not a registered namespace" % key)
+django.urls.exceptions.NoReverseMatch: 'user' is not a registered namespace
+ERROR 2021-12-17 09:37:23,880 basehttp 179 "GET /login/ HTTP/1.1" 500 138650
+ERROR 2021-12-17 09:37:31,489 log 225 Internal Server Error: /login/
+Traceback (most recent call last):
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\urls\base.py", line 71, in reverse
+    extra, resolver = resolver.namespace_dict[ns]
+KeyError: 'Home'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\views\generic\base.py", line 69, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\views\generic\base.py", line 101, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\mi\Desktop\blog\second_blog\users\views.py", line 141, in get
+    return render(request, 'login.html')
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\template\base.py", line 176, in render
+    return self._render(context)
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\template\base.py", line 168, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\template\base.py", line 977, in render
+    return SafeString(''.join([
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\template\base.py", line 978, in <listcomp>
+    node.render_annotated(context) for node in self
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\template\base.py", line 938, in render_annotated
+    return self.render(context)
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\template\defaulttags.py", line 442, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\mi\Desktop\blog\blog_venv\lib\site-packages\django\urls\base.py", line 82, in reverse
+    raise NoReverseMatch("%s is not a registered namespace" % key)
+django.urls.exceptions.NoReverseMatch: 'Home' is not a registered namespace
+ERROR 2021-12-17 09:37:31,491 basehttp 179 "GET /login/ HTTP/1.1" 500 138650
+INFO 2021-12-17 09:37:51,686 basehttp 179 "GET /login/ HTTP/1.1" 200 3688
+INFO 2021-12-17 09:37:53,121 basehttp 179 "GET /register/ HTTP/1.1" 200 6102
+INFO 2021-12-17 09:37:53,142 basehttp 179 "GET /static/js/register.js HTTP/1.1" 200 6438
+INFO 2021-12-17 09:37:53,236 basehttp 179 "GET /imagecode/?uuid=dccc26ba-443e-4fda-b873-4c77683681b4 HTTP/1.1" 200 3357
+INFO 2021-12-17 09:38:05,382 autoreload 257 C:\Users\mi\Desktop\blog\second_blog\second_blog\settings.py changed, reloading.
+INFO 2021-12-17 09:38:06,685 autoreload 643 Watching for file changes with StatReloader
